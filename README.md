@@ -1,6 +1,6 @@
 # UCCD2063-Lab-Answer
-This repository contains lab exercises answers for UCCD2063 Artificial Intelligence Techniques. 
-All answers are based on personal knowledges and perspectives. 
+This repository contains lab exercises answers for UCCD2063 Artificial Intelligence Techniques. <br>
+All answers are based on personal knowledges and perspectives. <br>
 Any improvements or corrections are welcomed and encouraged to comment out. 
 
 ## Lab Tools / Environment Requirement 
